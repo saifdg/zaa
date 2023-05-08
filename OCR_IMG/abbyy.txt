@@ -1,5 +1,0 @@
-Display Name: Ocr_App
-
-Application ID: 66fdcd5f-5ab0-43be-b415-0a51d4ee09eb
-
-Password for newly created Application has been sent to your email: saifdg.dghais@gmail.com.
